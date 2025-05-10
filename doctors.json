@@ -1,0 +1,566 @@
+{
+    "Adult Neurology": [
+        {
+            "NAME": "hosam refat",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Osama Abdel Salam",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "yahya AlHamzawy",
+            "ADDRESS": "Jeddah - Al Nahda : Prince Sultan",
+            "HOSPITAL": "Al-Alameya Polyclinic and Day Surgery Center Clinics"
+        },
+        {
+            "NAME": "Ahmad Almoaiad",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Sultan st.",
+            "HOSPITAL": "Bio Life Clinics"
+        },
+        {
+            "NAME": "Waleed Al Zahrani",
+            "ADDRESS": "Jeddah - Al Rawdah  : Jeddah - Al Rawdah District - Al Nahda Street (Tahlia Walk)",
+            "HOSPITAL": "European Medical Centre-Tahlia Center"
+        },
+        {
+            "NAME": "Fazwy Babtain",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Mohammed Al Harbi",
+            "ADDRESS": "Jeddah - Al Rawdah  : Jeddah - Al Rawdah District - Al Nahda Street (Tahlia Walk)",
+            "HOSPITAL": "European Medical Centre-Tahlia Center"
+        },
+        {
+            "NAME": "Omar Ayoub",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Abdulrahman Boguis",
+            "ADDRESS": "Jeddah - Al Rawdah  : Jeddah - Al Rawdah District - Al Nahda Street (Tahlia Walk)",
+            "HOSPITAL": "European Medical Centre-Tahlia Center"
+        }
+    ],
+    "Andrologist": [
+        {
+            "NAME": "Sherif ElDawy",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ],
+    "Cardiologist": [
+        {
+            "NAME": "Abdullah Awarah",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        },
+        {
+            "NAME": "Mohammed Sherif Helmy",
+            "ADDRESS": "Jeddah - Al Zahraa : Abdullah Jaser",
+            "HOSPITAL": "Hiba Asia Medical 3 Center"
+        }
+    ],
+    "Consultant Obstetrics & Gynecology & Infertility": [
+        {
+            "NAME": "salma jafer",
+            "ADDRESS": "Riyadh - Takhassusi : almather alshmali",
+            "HOSPITAL": "dr talal merdad Center"
+        }
+    ],
+    "Consultant in surgery, obstetrics and gynecology": [
+        {
+            "NAME": "Fares omar modhesh",
+            "ADDRESS": "Riyadh - Al Olaya : Al Sidrah",
+            "HOSPITAL": "Dr Abdul Rahman Al Mashari Hospital"
+        }
+    ],
+    "Consultant of Gynaecology": [
+        {
+            "NAME": "Naglaa Abas Abduallah",
+            "ADDRESS": "Riyadh - Al Olaya : Al Sidrah",
+            "HOSPITAL": "Dr Abdul Rahman Al Mashari Hospital"
+        }
+    ],
+    "Dentist": [
+        {
+            "NAME": "Nada Khaled",
+            "ADDRESS": "Riyadh - Al Nahdah : Salman Al Farsi St",
+            "HOSPITAL": "Hla Rose Clinics"
+        },
+        {
+            "NAME": "RAHAF AL KAYALI",
+            "ADDRESS": "Jeddah - Al Zahraa : Abdullah Jaser",
+            "HOSPITAL": "Hiba Asia Medical 3 Center"
+        },
+        {
+            "NAME": "MURHAF ABBOUD",
+            "ADDRESS": "Riyadh - Al Nahdah : Salman Al Farsi St",
+            "HOSPITAL": "Hla Rose Clinics"
+        },
+        {
+            "NAME": "Ghassan Khalifa",
+            "ADDRESS": "Jeddah - Al Salamah : sultan st",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Mohamed Sultan",
+            "ADDRESS": "Jeddah - Al Andalus : Al Andalus District - Prince Mohammed Bin Abdul Aziz Road (Lechato Trading Center)",
+            "HOSPITAL": "Andalusia Dental Center"
+        },
+        {
+            "NAME": "Dulila Aldroubi",
+            "ADDRESS": "Jeddah - Al Rawdah  : AlRawda Dist, Mohammed bin abdulaziz",
+            "HOSPITAL": "ALTABABAH Center"
+        },
+        {
+            "NAME": "Abdulrahman Rahmani",
+            "ADDRESS": "Jeddah - Al Rawdah  : AlRawda Dist, Mohammed bin abdulaziz",
+            "HOSPITAL": "ALTABABAH Center"
+        },
+        {
+            "NAME": "RADWA GAMAL",
+            "ADDRESS": "Jeddah - Mishrifah : Mishrifah District - Al Makaronah Road",
+            "HOSPITAL": "Andalusia Dental Center"
+        },
+        {
+            "NAME": "Moaz Sabha",
+            "ADDRESS": "Jeddah - Al Fayhaa : Abdullah Sulayman ST",
+            "HOSPITAL": "Al Sondus Dental Clinics"
+        },
+        {
+            "NAME": "Mohamed Ahmed El Ostaz",
+            "ADDRESS": "Riyadh - Al Izdihar : Othman Ibn Affan",
+            "HOSPITAL": "Professor Dental Complex Clinics"
+        },
+        {
+            "NAME": "Hani Al Titi",
+            "ADDRESS": "Jeddah - Al Salamah : sultan st",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Hisham Gibran",
+            "ADDRESS": "Jeddah - Al Salamah : sultan st",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Afnan Khedr",
+            "ADDRESS": "Riyadh - Al Muruj : King Abdulaziz Road",
+            "HOSPITAL": "Reval Clinics"
+        },
+        {
+            "NAME": "Mohamed Salem",
+            "ADDRESS": "Jeddah - Al Salamah : sultan st",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Abdullrahem Sandoukah",
+            "ADDRESS": "Jeddah - Al Fayhaa : Abdullah Sulayman ST",
+            "HOSPITAL": "Al Sondus Dental Clinics"
+        },
+        {
+            "NAME": "Raafat Hasan",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Sultan st.",
+            "HOSPITAL": "Bio Life Clinics"
+        },
+        {
+            "NAME": "Sara MOHAMED ABDEL FATTAH SOLIMAN",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Ghadeer Alhout",
+            "ADDRESS": "Jeddah - Al Fayhaa : Abdullah Sulayman ST",
+            "HOSPITAL": "Al Sondus Dental Clinics"
+        },
+        {
+            "NAME": "Mishal Alharbi",
+            "ADDRESS": "Jeddah - Al Fayhaa : Abdullah Sulayman ST",
+            "HOSPITAL": "Al Sondus Dental Clinics"
+        }
+    ],
+    "Dermatologist": [
+        {
+            "NAME": "Nisreen AlSiddiq",
+            "ADDRESS": "Riyadh - Al Nahdah : Salman Al Farsi St",
+            "HOSPITAL": "Hla Rose Clinics"
+        },
+        {
+            "NAME": "Ali Al zahrani",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Marwa Althabouty",
+            "ADDRESS": "Jeddah - Al Rawdah  : AlRawda Dist, Mohammed bin abdulaziz",
+            "HOSPITAL": "ALTABABAH Center"
+        },
+        {
+            "NAME": "Safaa Abu El Azm",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Mamdooh Sarhan",
+            "ADDRESS": "Jeddah - Al Zahraa : Abdullah Jaser",
+            "HOSPITAL": "Hiba Asia Medical 3 Center"
+        },
+        {
+            "NAME": "Shatha Rahmani",
+            "ADDRESS": "Jeddah - Al Rawdah  : AlRawda Dist, Mohammed bin abdulaziz",
+            "HOSPITAL": "ALTABABAH Center"
+        }
+    ],
+    "Doctor": [
+        {
+            "NAME": "jawaher Al Ali",
+            "ADDRESS": "Riyadh - Al Naseem Al Gharbi : Aktham bin Saifi Street in front of the municipality park",
+            "HOSPITAL": "HOW Medical Clinics"
+        }
+    ],
+    "ENT Doctor": [
+        {
+            "NAME": "NABELA ELSAYED",
+            "ADDRESS": "Riyadh - Al Rawdah  : Hassan bin Ali Street",
+            "HOSPITAL": "Althomairy Clinics"
+        },
+        {
+            "NAME": "Mohammed Abu Alfutuh",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        },
+        {
+            "NAME": "Mohammed Fathi",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Nasser Alsayed Hassan",
+            "ADDRESS": "Jeddah - Al Zahraa : Alqama Hadrami St",
+            "HOSPITAL": "Tala Clinics"
+        },
+        {
+            "NAME": "Mohamed Alkhayat",
+            "ADDRESS": "Jeddah - Al Sanabel : General Street - Al-Sanabel District",
+            "HOSPITAL": "Andalusia Sanabel Clinics"
+        },
+        {
+            "NAME": "Ibrahim Eid",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ],
+    "Family Doctor": [
+        {
+            "NAME": "Ahmed Khalil",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        }
+    ],
+    "Gastroenterologist": [
+        {
+            "NAME": "Ammar Omran",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        }
+    ],
+    "General Surgeon": [
+        {
+            "NAME": "Naila Jubari",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ],
+    "Gynecologist": [
+        {
+            "NAME": "Shaimaa Essam",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "nancy Aldrany",
+            "ADDRESS": "Jeddah - Al Hamadaniyyah : Al Hamadaniyah Street",
+            "HOSPITAL": "DERYAQ CARE POLYCLINICS Clinics"
+        },
+        {
+            "NAME": "Ibtihal Tom",
+            "ADDRESS": "Jeddah - Al Nahda : Prince Sultan",
+            "HOSPITAL": "Al-Alameya Polyclinic and Day Surgery Center Clinics"
+        },
+        {
+            "NAME": "Mahmoud Gehad",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Eman Ali Alfhar",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        },
+        {
+            "NAME": "Rabab Sharaf",
+            "ADDRESS": "Jeddah - Al Zahraa : Abdullah Jaser",
+            "HOSPITAL": "Hiba Asia Medical 3 Center"
+        },
+        {
+            "NAME": "Ashwaq Ahmed",
+            "ADDRESS": "Jeddah - Al-Wazeeriyah : Abi Abdullah Al-Aishi, Madain Al-Fahd",
+            "HOSPITAL": "Hiba Asia Medical Group Center"
+        },
+        {
+            "NAME": "Mona Al Shaghoury",
+            "ADDRESS": "Jeddah - Al Hamra : Medina Al Munawara Road (Palm Commercial Centre)",
+            "HOSPITAL": "Professional Medical Consultancy Palm Commercial Centre Clinics"
+        },
+        {
+            "NAME": "Azza Hussein Ahmed",
+            "ADDRESS": "Jeddah - Al-Wazeeriyah : Abi Abdullah Al-Aishi, Madain Al-Fahd",
+            "HOSPITAL": "Hiba Asia Medical Group Center"
+        },
+        {
+            "NAME": "Marwa Hassan",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ],
+    "Internist": [
+        {
+            "NAME": "Ienas EL Feqy",
+            "ADDRESS": "Riyadh - Dhahrat Laban : Dhahrat Laban - Exit 34 - Intersection of Taif Street with Hail Street\u060c  13784",
+            "HOSPITAL": "Asda Al Seha Clinics"
+        },
+        {
+            "NAME": "Dalinda Arafawi",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Khaled Alanzi",
+            "ADDRESS": "Riyadh - Al Sahafa : El sahafa King Fahd road",
+            "HOSPITAL": "Saudi German Riyadh Hospital"
+        },
+        {
+            "NAME": "DIAA MANSOUR EWAIS",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Mohammad Radwan",
+            "ADDRESS": "Jeddah - Al Nahda : Prince Sultan",
+            "HOSPITAL": "Al-Alameya Polyclinic and Day Surgery Center Clinics"
+        }
+    ],
+    "Master in Obstetrics and Gynecology": [
+        {
+            "NAME": "Eman Ali Alfhar",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        }
+    ],
+    "Obstetrician and Gynecologist": [
+        {
+            "NAME": "rehab Belal",
+            "ADDRESS": "Riyadh - Al Muruj : Ibn Sina Street",
+            "HOSPITAL": "How Medical Group Clinics"
+        }
+    ],
+    "Obstetrician and gynecologist": [
+        {
+            "NAME": "Reham Nasser",
+            "ADDRESS": "Riyadh - Dhahrat Laban : Dhahrat Laban - Exit 34 - Intersection of Taif Street with Hail Street\u060c  13784",
+            "HOSPITAL": "Asda Al Seha Clinics"
+        }
+    ],
+    "Obstetrics and Gynaecology": [
+        {
+            "NAME": "haiat alharthi",
+            "ADDRESS": "Riyadh - Takhassusi : almather alshmali",
+            "HOSPITAL": "dr talal merdad Center"
+        }
+    ],
+    "Obstetrics and gynecology specialist": [
+        {
+            "NAME": "Amal Az aldeen",
+            "ADDRESS": "Riyadh - Al Rawdah  : Hassan bin Ali Street",
+            "HOSPITAL": "Althomairy Clinics"
+        }
+    ],
+    "Ophthalmologist": [
+        {
+            "NAME": "GEHAN ANWAER",
+            "ADDRESS": "Riyadh - Al Rawdah  : Hassan bin Ali Street",
+            "HOSPITAL": "Althomairy Clinics"
+        },
+        {
+            "NAME": "Easa Awadh Baeasa",
+            "ADDRESS": "Jeddah - Al Nahda : Prince Sultan",
+            "HOSPITAL": "Al-Alameya Polyclinic and Day Surgery Center Clinics"
+        },
+        {
+            "NAME": "Nawaf Al Qahtani",
+            "ADDRESS": "Makkah - Aziziyah : Makkah",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Sharf Odai",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        },
+        {
+            "NAME": "Mustafa Mohamed Abu Afar",
+            "ADDRESS": "Makkah - Aziziyah : Makkah",
+            "HOSPITAL": "Magrabi Center"
+        },
+        {
+            "NAME": "Ahmed Attia Mortada",
+            "ADDRESS": "Jeddah - Mishrifah : Madina road",
+            "HOSPITAL": "Magrabi Center"
+        }
+    ],
+    "Orthopedist": [
+        {
+            "NAME": "Wael ALghundur",
+            "ADDRESS": "Riyadh - Dhahrat Laban : Dhahrat Laban - Exit 34 - Intersection of Taif Street with Hail Street\u060c  13784",
+            "HOSPITAL": "Asda Al Seha Clinics"
+        },
+        {
+            "NAME": "Ibrahim Alqasabi",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        },
+        {
+            "NAME": "Iyad Al Imam",
+            "ADDRESS": "Jeddah - Al Shati : King Abdulaziz Road . Jeddah, Al Shati",
+            "HOSPITAL": "Habib Med polyclinics Center"
+        }
+    ],
+    "Pediatric Neurology": [
+        {
+            "NAME": "Hatem Taema",
+            "ADDRESS": "Jeddah - Al Bawadi : El Bawadi District El Khatib El Tebrizy St. (Ground Floor, 1st & 2nd Floor)",
+            "HOSPITAL": "Andalusia For Kids Wellness Clinics"
+        }
+    ],
+    "Pediatrician": [
+        {
+            "NAME": "MOHAMMED MUZAFFER",
+            "ADDRESS": "Jeddah - Al Zahraa : Abdullah Jaser",
+            "HOSPITAL": "Hiba Asia Medical 3 Center"
+        },
+        {
+            "NAME": "Mohamed Abdulfattah",
+            "ADDRESS": "Riyadh - Al Rawdah  : Hassan bin Ali Street",
+            "HOSPITAL": "Althomairy Clinics"
+        },
+        {
+            "NAME": "Eman Abdel Khalek El Attar",
+            "ADDRESS": "Riyadh - Dhahrat Laban : Dhahrat Laban - Exit 34 - Intersection of Taif Street with Hail Street\u060c  13784",
+            "HOSPITAL": "Asda Al Seha Clinics"
+        }
+    ],
+    "Phoniatrician": [
+        {
+            "NAME": "Dalia Adwan",
+            "ADDRESS": "Jeddah - Al Bawadi : El Bawadi District El Khatib El Tebrizy St. (Ground Floor, 1st & 2nd Floor)",
+            "HOSPITAL": "Andalusia For Kids Wellness Clinics"
+        }
+    ],
+    "Physiotherapist": [
+        {
+            "NAME": "Heba Abdelrazik",
+            "ADDRESS": "Jeddah - Al Muhamdeya : Prince sultan - Al Mohamadeya",
+            "HOSPITAL": "Andalusia Ladies Wellness Clinics"
+        },
+        {
+            "NAME": "Hoda Abo Sanqa",
+            "ADDRESS": "Jeddah - Al Sanabel : General Street - Al-Sanabel District",
+            "HOSPITAL": "Andalusia Sanabel Clinics"
+        },
+        {
+            "NAME": "Marwa Al Farra",
+            "ADDRESS": "Jeddah - Al Bawadi : El Bawadi District El Khatib El Tebrizy St. (Ground Floor, 1st & 2nd Floor)",
+            "HOSPITAL": "Andalusia For Kids Wellness Clinics"
+        }
+    ],
+    "Psychiatrist": [
+        {
+            "NAME": "Ahmed Issa",
+            "ADDRESS": "Jeddah - Al Hamra : Medina Al Munawara Road (Palm Commercial Centre)",
+            "HOSPITAL": "Professional Medical Consultancy Palm Commercial Centre Clinics"
+        },
+        {
+            "NAME": "Ghadeer Maghrabi",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Sultan st.",
+            "HOSPITAL": "Bio Life Clinics"
+        },
+        {
+            "NAME": "Moaaz Al Qaisy",
+            "ADDRESS": "Buraydah - Al Rayan : Yahya ibn mohammed",
+            "HOSPITAL": "Motmaena buraydah Center"
+        },
+        {
+            "NAME": "Medhat Mohamed Fouad",
+            "ADDRESS": "Jeddah - Al Hamra : Medina Al Munawara Road (Palm Commercial Centre)",
+            "HOSPITAL": "Professional Medical Consultancy Palm Commercial Centre Clinics"
+        }
+    ],
+    "Psychotherapy": [
+        {
+            "NAME": "Huda Ali Alzahrani",
+            "ADDRESS": "Jeddah - Al Bawadi : El Bawadi District El Khatib El Tebrizy St. (Ground Floor, 1st & 2nd Floor)",
+            "HOSPITAL": "Andalusia For Kids Wellness Clinics"
+        }
+    ],
+    "Pulmonologist": [
+        {
+            "NAME": "Khader Ali AlZahrani",
+            "ADDRESS": "Riyadh - Al Shuhada : alamam abdullah bin saud E9",
+            "HOSPITAL": "NERA MEDICAL SPECIALIST CENTRE Hospital"
+        },
+        {
+            "NAME": "Nemaat alsouofi",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ],
+    "Sleep Disorder Doctor": [
+        {
+            "NAME": "hosam refat",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        }
+    ],
+    "Specialist of gynecology": [
+        {
+            "NAME": "Lobna Ayoup",
+            "ADDRESS": "Riyadh - Ad Diriyah : King Abdul Aziz until the capital 7261",
+            "HOSPITAL": "Seha Al Diriyyah Clinics"
+        }
+    ],
+    "Urologist": [
+        {
+            "NAME": "Mohamed nassar",
+            "ADDRESS": "Jeddah - Al Sanabel : General Street - Al-Sanabel District",
+            "HOSPITAL": "Andalusia Sanabel Clinics"
+        },
+        {
+            "NAME": "Ahmed Moamr",
+            "ADDRESS": "Riyadh - Dhahrat Laban : Dhahrat Laban - Exit 34 - Intersection of Taif Street with Hail Street\u060c  13784",
+            "HOSPITAL": "Asda Al Seha Clinics"
+        },
+        {
+            "NAME": "Maged Fayad",
+            "ADDRESS": "Jeddah - Al Rawdah  : Prince Saud Al Faisal street In front of Saudi city compound Al Badreya Towers, beside Alrajhi bank",
+            "HOSPITAL": "Beverly Clinics By Saudi German Health -Al Khalidiyyah Jeddah Center"
+        },
+        {
+            "NAME": "Amr Abdel Tawab",
+            "ADDRESS": "Jeddah - Al Jam\u2019iah : Road, Al Jami`ah, Abdullah Suleiman intersection",
+            "HOSPITAL": "Andalusia Hospital"
+        }
+    ]
+}

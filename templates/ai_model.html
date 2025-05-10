@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Health AI Diagnosis</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body class="text-gray-900" style="background: linear-gradient(135deg, #009688, #6BBF59);">
+
+  <nav class="text-white p-4 flex justify-between" style="background: rgba(0, 150, 136, 0.9);">
+    <h1 class="text-2xl font-bold">Health AI Diagnosis</h1>
+  </nav>
+
+  <div class="container mx-auto p-6 text-center">
+    <h2 class="text-3xl font-bold mb-4" style="color:whitesmoke">Enter Your Symptoms</h2>
+    <p class="text-lg" style="color:whitesmoke">Write your symptoms (comma-separated):</p>
+
+    <form method="post" action="{{ url_for('ai.diagnose') }}" class="mt-4">
+      <input type="text" name="symptoms" class="w-full p-2 border rounded mt-2" placeholder="e.g., fever, cough, fatigue" required>
+      <button type="submit" class="mt-4 bg-green-600 text-white p-2 rounded">Diagnose</button>
+    </form>
+
+    {% if diagnosis_result %}
+    <div class="results mt-6 text-left bg-white p-4 shadow-md rounded">
+      <h3 class="text-xl font-bold">✅ Diagnosis Results</h3>
+      <p><strong>Matching Symptom:</strong> {{ diagnosis_result.symptom }}</p>
+      <p><strong>Possible Diagnoses:</strong> {{ diagnosis_result.diagnoses | join(", ") }}</p>
+    </div>
+    {% endif %}
+
+{% if doctor_info %}
+<div class="mt-6 text-left bg-white p-4 shadow-md rounded">
+  <h3 class="text-xl font-bold">👨‍⚕️ Recommended Doctors</h3>
+  {% for doc in doctor_info %}
+    <div class="mb-4">
+      <p><strong>Name:</strong> {{ doc.name }}</p>
+      <p><strong>Hospital:</strong> {{ doc.hospital }}</p>
+      <p><strong>Address:</strong> {{ doc.address }}</p>
+    </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+
+
+    <h3 class="text-xl font-bold mt-6">Nearby Hospital Location</h3>
+    <div id="map" class="w-full h-96 bg-gray-200 rounded mt-4"></div>
+  </div>
+
+  <script>
+    const hospitalData = {{ hospitals | tojson | safe }};
+    const map = L.map('map').setView([24.7136, 46.6753], 12);  // Default view on Riyadh
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+if (hospitalData.length > 0) {
+  const bounds = [];
+
+  hospitalData.forEach(hospital => {
+    const marker = L.marker([hospital.lat, hospital.lng])
+      .addTo(map)
+      .bindPopup(`<strong>${hospital.name}</strong><br>${hospital.address}`);
+
+    bounds.push([hospital.lat, hospital.lng]);
+  });
+
+  // Fit map to show all markers
+  map.fitBounds(bounds);
+}
+
+  </script>
+
+</body>
+</html>

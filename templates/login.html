@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Health Director Login</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="left-panel">
+      <img src="{{ url_for('static', filename='icon.png') }}" alt="Health Director Logo" class="logo">
+      <h1 id="title">Health Director</h1>
+      <p id="description">Add a description</p>
+    </div>
+
+    <div class="lang-toggle">
+      <a href="#" id="lang-en">English</a> | 
+      <a href="#" id="lang-ar">العربية</a>
+    </div>
+
+    <div class="right-panel">
+      <form class="login-form" method="POST" action="{{ url_for('auth.login') }}">
+        <h2 id="login-title">Login</h2>
+
+        <label for="email" id="email-label">Email</label>
+        <input type="email" name="email" id="email" placeholder="Enter your email" required>
+
+        <label for="password" id="password-label">Password</label>
+        <input type="password" name="password" id="password" placeholder="Enter your password" required>
+
+        <div class="show-password">
+          <input type="checkbox" id="show-password">
+          <label for="show-password" id="show-password-label">Show Password</label>
+        </div>
+
+        <button type="submit" class="sign-in-btn" id="sign-in-btn">SIGN IN</button>
+
+        <div class="links">
+          <a href="#" id="forgot-link">Forgot Username / Password?</a>
+          <a href="{{ url_for('auth.signup') }}" id="login-link">Don't have an account? Sign up</a>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

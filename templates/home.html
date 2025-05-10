@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Director - Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+<body>
+    <!-- شريط التنقل -->
+    <nav class="navbar">
+        <div class="logo">Health Director</div>
+        <ul class="nav-links">
+            <li><a href="#" id="home-link">Home</a></li>
+            <li><a href="#" id="services-link">Services</a></li>
+            <li><a href="#" id="about-link">About Us</a></li>
+            <li><a href="{{ url_for('auth.login') }}" id="login-link">Login</a></li>
+        </ul>
+        <button id="language-toggle">Switch to Arabic</button>
+    </nav>
+
+    <!-- القسم الترحيبي -->
+    <header class="hero">
+        <h1 id="welcome-text">Welcome to Health Director</h1>
+        <p id="sub-text">Your trusted partner for better healthcare</p>
+        <a href="{{ url_for('auth.login') }}" class="cta-button" id="cta-btn">Get Started</a>
+    </header>
+
+    <script src="{{ url_for('static', filename='home.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='SING UP.css') }}" />
+</head>
+<body>
+  <div class="lang-toggle">
+    <a href="#" id="lang-en">English</a> | 
+    <a href="#" id="lang-ar">العربية</a>
+  </div>
+
+  <form class="form-container" method="POST" action="{{ url_for('auth.signup') }}">
+    <h2 id="formTitle" data-en="Sign Up" data-ar="إنشاء حساب">إنشاء حساب</h2>
+    
+    <input type="text" name="fullname" placeholder="الاسم الكامل" 
+           data-en="Full Name" data-ar="الاسم الكامل" required />
+    
+    <input type="email" name="email" placeholder="البريد الإلكتروني" 
+           data-en="Email" data-ar="البريد الإلكتروني" required />
+    
+    <input type="password" name="password" placeholder="كلمة المرور" 
+           data-en="Password" data-ar="كلمة المرور" required />
+    
+    <input type="password" name="confirm-password" placeholder="تأكيد كلمة المرور" 
+           data-en="Confirm Password" data-ar="تأكيد كلمة المرور" required />
+    
+    <button type="submit" id="submitBtn" data-en="Sign Up" data-ar="تسجيل">تسجيل</button>
+  </form>
+
+  <script src="{{ url_for('static', filename='SCRIPT2.js') }}"></script>
+</body>
+</html>
